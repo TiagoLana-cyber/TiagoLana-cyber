@@ -27,9 +27,9 @@ Desemvolvedor Web Júnior em transição de carreira, focado em criar interfaces
 ### 📂 No que tenho trabalhado? (Meus Projetos)
 
 
-*   **[Nome do Projeto de Automação]**: Script em Python desenvolvido para automatizar rotinas, ler relatórios e otimizar tempo.
-*   **[Nome do Projeto Web]**: Aplicação web desenvolvida aplicando os conceitos aprendidos na MasterD.
-*   **[Nome do Projeto de Dados]**: Análise e manipulação de dados utilizando Python e bibliotecas como Pandas.
+*   **Automação para Cadastro de Produtos**: Script em Python desenvolvido para automatizar rotinas, ler relatórios e otimizar tempo.
+*   **Site da igreja**: Aplicação web desenvolvida aplicando os conceitos aprendidos na MasterD.
+*   **Analisar dados - vendas de chocolate**: Análise e manipulação de dados utilizando Python e bibliotecas como Pandas.
 
 ---
 
